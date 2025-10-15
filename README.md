@@ -26,10 +26,4 @@ Safiri is a travel agency website focused on safari experiences. The site highli
 2. Open `safari.html` in your preferred web browser.
 3. Navigate through the sections to explore safari options.
 
-## Contributing
 
-Feel free to fork the repository and submit pull requests for improvements or additional features.
-
-## License
-
-This project is open-source. Please check the license file for details.
